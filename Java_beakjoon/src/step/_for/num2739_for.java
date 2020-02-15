@@ -1,6 +1,6 @@
-package algo;
+package step._for;
 import java.util.*;
-public class num2753_for {
+public class num2739_for {
 
 	public static void main(String[] args) {
 		int num;

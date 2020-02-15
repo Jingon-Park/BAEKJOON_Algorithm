@@ -1,12 +1,13 @@
-package algo;
+package step._if;
 import java.util.*;
-public class num2753 {
+public class num2753_if {
 
 	public static void main(String[] args) {
 		int year;
 		Scanner sc = new Scanner(System.in);
-		
 		year = sc.nextInt();
+		
+		
 		if((year % 4 == 0) && (year % 100 != 0)) {
 			System.out.println(1);
 		}
