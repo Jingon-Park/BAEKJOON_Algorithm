@@ -18,7 +18,7 @@ public class num2562_array {
 			}
 		}
 		System.out.println(large);
-		System.out.println(index);
+		System.out.println(index + 1);
 	}
 
 }
