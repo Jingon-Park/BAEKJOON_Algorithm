@@ -13,7 +13,7 @@ public class num10039_practice1 {
 			sum +=score;
 		}
 		System.out.println(sum / 5);
-
+		sc.close();
 	}
 
 }
